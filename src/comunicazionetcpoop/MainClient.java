@@ -6,7 +6,7 @@ package comunicazionetcpoop;
 
 /**
  *
- * @author michaelfuschiotti
+ * @author michaelfuschiotti and Velloni Lorenzo
  */
 public class MainClient {
 
