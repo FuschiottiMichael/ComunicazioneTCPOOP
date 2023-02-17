@@ -18,7 +18,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author michaelfuschiotti
+ * @author michaelfuschiotti and Lorenzo Velloni 
  */
 public class Client {
     String nome;
